@@ -2,7 +2,7 @@
     jQuery Masked Input Plugin
     Copyright (c) 2007 - 2014 Josh Bush (digitalbush.com)
     Licensed under the MIT license (http://digitalbush.com/projects/masked-input-plugin/#license)
-    Version: 1.4.0
+    Version: https://github.com/quasi-presence/jquery.maskedinput.git
 */
 !function(factory) {
     "function" == typeof define && define.amd ? define([ "jquery" ], factory) : factory("object" == typeof exports ? require("jquery") : jQuery);

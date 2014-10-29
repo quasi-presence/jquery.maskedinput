@@ -1,6 +1,6 @@
 {
   "name": "jquery.maskedinput",
-  "version": "1.4.0",
+  "version": "https://github.com/quasi-presence/jquery.maskedinput.git",
   "author": "Josh Bush (digitalbush.com)",
   "description": "jQuery Masked Input Plugin",
 
